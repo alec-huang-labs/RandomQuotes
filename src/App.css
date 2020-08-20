@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
 :root{
   --main-bg-color: IndianRed;
   --main-box-color: white;
@@ -28,10 +29,9 @@ body{
 p{
   color: var(--main-bg-color);
 }
-
 #text{
   margin-top: 3vh;
-  font-size: 4vh;
+  font-size: 4vmin;
   line-height:1.5;
   font-weight: 400;
   padding:1.5vh;
@@ -51,11 +51,11 @@ p{
 button{
   border: none;
   background-color:var(--main-bg-color);
-  padding: 10px 30px;
+  padding: 1vw 3vw;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
+  font-size: 2vmin;
   border-radius: 5px;
   box-shadow: inset 0 10px 20px rgba(0,0,0,0.19);
 }
@@ -71,8 +71,35 @@ a{
 }
 .fa-twitter {
   color: white;
+  font-size: 2.5vmin;
 }
 .fa-github {
   color: white;
-  font-size: 40px;
+  font-size: 7vmin;
 }
+
+@media (max-width: 775px){
+  #backdrop {
+    width: 120vw;
+    margin-left: -10vw;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
