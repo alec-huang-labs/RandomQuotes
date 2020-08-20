@@ -1,10 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
 
 Visit the project [Here](https://alec-huang-labs.github.io/RandomQuotes/)!
 
-Or in your IDE...
+## Or in your IDE... Available Scripts
+
 
 In the project directory, you can run:
 
