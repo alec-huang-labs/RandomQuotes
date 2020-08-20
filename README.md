@@ -2,6 +2,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+Visit the project [Here]!(https://alec-huang-labs.github.io/RandomQuotes/)
+
+Or in your IDE...
+
 In the project directory, you can run:
 
 ### `npm start`
